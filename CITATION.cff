@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and archived repository DOI when available."
+title: "GBD 2023 MASLD/NAFLD-related liver burden counterfactual analysis"
+version: "0.1.0-submission"
+date-released: "2026-06-13"
+authors:
+  - family-names: "Li"
+    given-names: "Ruiqi"
+  - family-names: "Dong"
+    given-names: "Xiaoying"
+  - family-names: "Wei"
+    given-names: "Xueying"
+  - family-names: "Guo"
+    given-names: "Jun"
+  - family-names: "Shen"
+    given-names: "Jiale"
+  - family-names: "Chen"
+    given-names: "Shuling"
+  - family-names: "Mao"
+    given-names: "Tianhao"
+  - family-names: "Ren"
+    given-names: "Hao"
+  - family-names: "Zhang"
+    given-names: "Caiyun"
+  - family-names: "Xiong"
+    given-names: "Qingfang"
+  - family-names: "Wang"
+    given-names: "Xixuan"
+  - family-names: "Yang"
+    given-names: "Yongfeng"
+keywords:
+  - GBD 2023
+  - MASLD
+  - NAFLD
+  - high BMI
+  - counterfactual analysis
+  - Asia and Oceania

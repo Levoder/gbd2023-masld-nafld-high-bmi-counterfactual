@@ -1,0 +1,16 @@
+Country or territory,Higher BMI sex,Potentially avoidable DALYs,"DALY rate per 100,000 adults aged 20+","Potentially avoidable DALYs, % of total burden",Dominant risk factor,High BMI vs high FPG rate ratio
+China,Female,1153.3,0.105,0.327,high_fpg,0.345
+Indonesia,Female,492.1,0.249,0.294,smoking,0.388
+Thailand,Female,460.1,0.874,0.757,high_fpg,0.56
+Malaysia,Female,187.9,0.79,1.359,high_fpg,0.359
+Philippines,Female,161.8,0.23,0.681,high_fpg,0.394
+Myanmar,Female,83.7,0.23,0.415,high_fpg,0.268
+Viet Nam,Female,72.2,0.102,0.232,smoking,0.33
+Taiwan,Female,50.6,0.26,0.393,high_fpg,0.431
+Sri Lanka,Female,42.6,0.267,0.849,high_fpg,0.282
+Democratic People's Republic of Korea,Female,29.5,0.148,0.392,high_fpg,0.484
+Tonga,Female,2.2,3.839,2.012,high_fpg,0.972
+Nauru,Female,0.1,1.818,1.394,high_bmi,1.171
+Cook Islands,Female,0.1,1.041,0.86,high_fpg,0.907
+Marshall Islands,Female,0.5,2.068,1.767,high_fpg,0.576
+Tuvalu,Female,0.1,1.879,1.513,high_bmi,1.312

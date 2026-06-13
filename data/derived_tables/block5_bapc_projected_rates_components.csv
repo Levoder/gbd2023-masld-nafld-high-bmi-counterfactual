@@ -1,0 +1,489 @@
+measure_id,measure_name,burden_type,year,rate_mean,rate_sd,rate_lower,rate_median,rate_upper,model_status
+1,Deaths,total,1990,2.055181427306303,0.01747130453440546,2.020938299655937,2.055181427306303,2.089424554956669,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1991,2.0425327937174185,0.014390365027856098,2.0143281965384356,2.0425327937174185,2.070737390896401,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1992,2.0330157994039593,0.01414044750935552,2.0053010315603434,2.0330157994039593,2.060730567247575,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1993,2.027501248019006,0.013884022416940565,2.0002890641212563,2.027501248019006,2.0547134319167566,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1994,2.0276302523454652,0.013702784613169513,2.0007732880157434,2.0276302523454652,2.054487216675187,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1995,2.023572847686874,0.013549250685560501,1.9970168043256709,2.023572847686874,2.0501288910480775,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1996,2.005576015411949,0.01332660545179868,1.9794563486902483,2.005576015411949,2.0316956821336496,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1997,1.9755927520080367,0.013059055446145268,1.9499974736614802,1.9755927520080367,2.001188030354593,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1998,1.951069894786369,0.012826783858728263,1.925929860385782,1.951069894786369,1.976209929186956,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,1999,1.9330361619675396,0.012612767867789384,1.9083155912013083,1.9330361619675396,1.9577567327337708,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2000,1.914047951172521,0.01241400345779374,1.8897169514912895,1.914047951172521,1.9383789508537526,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2001,1.8854370076814944,0.012169281951168393,1.8615856533394908,1.8854370076814944,1.9092883620234977,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2002,1.8449694475016813,0.011863974096259462,1.8217164855594967,1.8449694475016813,1.868222409443866,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2003,1.8049154513437529,0.011567934684731504,1.7822427159861673,1.8049154513437529,1.8275881867013384,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2004,1.7752439196816443,0.011312425150589316,1.7530719738086842,1.7752439196816443,1.7974158655546044,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2005,1.7529497175201,0.011101591262145358,1.7311909984752105,1.7529497175201,1.7747084365649894,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2006,1.7500465400224925,0.010960977371768783,1.7285634191384671,1.7500465400224925,1.7715296609065179,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2007,1.765462760118453,0.010875620595008366,1.7441469354427144,1.765462760118453,1.7867785847941917,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2008,1.7874474157121838,0.010842797811783078,1.7661959225094395,1.7874474157121838,1.8086989089149283,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2009,1.7857668769785398,0.01070336866079158,1.7647886598901337,1.7857668769785398,1.806745094066946,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2010,1.7659986700419783,0.010489248385455174,1.7454401209815913,1.7659986700419783,1.7865572191023653,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2011,1.7342528162534532,0.010235462540499405,1.7141916783089655,1.7342528162534532,1.754313954197941,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2012,1.7098014330335243,0.010021018024570387,1.6901605986169397,1.7098014330335243,1.7294422674501089,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2013,1.6907665029721188,0.009833424182013778,1.6714933457306667,1.6907665029721188,1.710039660213571,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2014,1.6977718417714651,0.009723278949244388,1.6787145652193096,1.6977718417714651,1.7168291183236206,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2015,1.7089851172402974,0.009642540501066974,1.6900860851387374,1.7089851172402974,1.7278841493418575,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2016,1.7233880475820307,0.009589787262067384,1.7045924099289775,1.7233880475820307,1.7421836852350838,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2017,1.7097838433953703,0.009425366759070101,1.691310464006512,1.7097838433953703,1.7282572227842288,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2018,1.6641082072936777,0.00910555884715452,1.6462616398941448,1.6641082072936777,1.6819547746932106,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2019,1.6108420799138639,0.008810095252479345,1.593574610518637,1.6108420799138639,1.628109549309091,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2020,1.578708285298204,0.00864854096840688,1.5617574564813073,1.578708285298204,1.5956591141151009,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2021,1.6014724856367748,0.008588543931453134,1.5846392488514867,1.6014724856367748,1.618305722422063,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2022,1.6464694317415225,0.008740303134830044,1.629338752383293,1.6464694317415225,1.6636001110997518,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2023,1.6110633190835246,0.009519913756824325,1.5924046309842217,1.6110633190835246,1.6297220071828278,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2024,1.6045482408163247,0.0333486942345953,1.5391860011850795,1.6045482408163247,1.66991048044757,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2025,1.5911552003898097,0.06233840368448684,1.4689741743144964,1.5911552003898097,1.713336226465123,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2026,1.5788636210321594,0.09694499681145316,1.3888549188003607,1.5788636210321594,1.768872323263958,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2027,1.56718442978246,0.13584562488297783,1.3009318975544852,1.56718442978246,1.8334369620104347,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2028,1.55554444028045,0.17836079273412853,1.2059637102675447,1.55554444028045,1.9051251702933552,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2029,1.544606769077443,0.22420317068466317,1.105176629315817,1.544606769077443,1.9840369088390692,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2030,1.534368299378559,0.2730314703960053,0.9992364507563747,1.534368299378559,2.0695001480007433,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2031,1.5249693627523102,0.3246152999787817,0.8887350659632324,1.5249693627523102,2.161203659541388,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2032,1.5160093713369975,0.37866618577767724,0.773837285049597,1.5160093713369975,2.258181457624398,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2033,1.5070139898932722,0.43489276275602873,0.6546398377543337,1.5070139898932722,2.35938814203221,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2034,1.4986270626074698,0.4933817634942062,0.531616575529967,1.4986270626074698,2.4656375496849723,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2035,1.4908575341350774,0.5540304253305182,0.40497785414785437,1.4908575341350774,2.5767372141223,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2036,1.4838678476543061,0.6168225881500639,0.27491779002939837,1.4838678476543061,2.6928179052792136,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2037,1.4774227492241365,0.6816058897181493,0.14149975372618406,1.4774227492241365,2.813345744722089,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2038,1.4711765201065048,0.7481710855404291,0.004788138173027804,1.4711765201065048,2.9375649020399814,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2039,1.465688272382178,0.8168022747416674,0,1.465688272382178,3.0665913133662364,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2040,1.4609558327577241,0.8875071953792516,0,1.4609558327577241,3.20043797172121,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2041,1.4571173762058467,0.9603967021930246,0,1.4571173762058467,3.339460323375215,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2042,1.454039989754916,1.0354276267717957,0,1.454039989754916,3.483440846825416,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2043,1.4514339095491464,1.1124376157149074,0,1.4514339095491464,3.631771571397973,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2044,1.449662718106182,1.1917782813180877,0,1.449662718106182,3.7855052270466785,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2045,1.4486669150170604,1.2734794363492326,0,1.4486669150170604,3.9446407453139236,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2046,1.4485016432913946,1.3576722555618366,0,1.4485016432913946,4.109490367001854,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2047,1.4490665535137095,1.4443527288340665,0,1.4490665535137095,4.279945883000626,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2048,1.4501073575366021,1.5333507085273246,0,1.4501073575366021,4.455419521919132,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2049,1.4518603117916726,1.6250117286265768,0,1.4518603117916726,4.636824774354938,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,total,2050,1.4542961515366104,1.7194046315631646,0,1.4542961515366104,4.824267304251773,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1990,0.025557689992619023,0.0012165494605625815,0.02317329686450473,0.025557689992619023,0.027942083120733312,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1991,0.02647353178241714,0.0010213476321405395,0.02447172720772642,0.02647353178241714,0.028475336357107858,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1992,0.027386245336431733,8.975486483704257e-4,0.025627082311253095,0.027386245336431733,0.02914540836161037,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1993,0.028292448578428327,8.331321973923016e-4,0.026659539477178702,0.028292448578428327,0.029925357679677952,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1994,0.029185593953362017,8.082991634783722e-4,0.027601356704210555,0.029185593953362017,0.03076983120251348,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1995,0.030047283715020308,8.049602532896455e-4,0.028469590609586367,0.030047283715020308,0.03162497682045425,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1996,0.030845850520435054,8.103539461248452e-4,0.029257585971300445,0.030845850520435054,0.03243411506956966,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1997,0.03155420319232059,8.168391401963932e-4,0.029953227896373,0.03155420319232059,0.03315517848826818,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1998,0.03217020018765943,8.208999817065356e-4,0.030561265788605036,0.03217020018765943,0.03377913458671383,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,1999,0.032707373270267244,8.213027342907554e-4,0.031097649490653096,0.032707373270267244,0.034317097049881395,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2000,0.033133998265004704,8.167171189633218e-4,0.03153326212627928,0.033133998265004704,0.03473473440373013,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2001,0.03344787429028793,8.079507954989556e-4,0.03186431982982949,0.03344787429028793,0.035031428750746364,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2002,0.03368025157022521,7.989047989379263e-4,0.03211442693723066,0.03368025157022521,0.03524607620321976,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2003,0.03387010930609561,7.932122778018439e-4,0.032315441809509016,0.03387010930609561,0.03542477680268221,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2004,0.034109701396194334,7.920228814853488e-4,0.03255736507355141,0.034109701396194334,0.035662037718837254,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2005,0.03445650627573747,7.927142032226617e-4,0.03290281498738769,0.03445650627573747,0.03601019756408726,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2006,0.03494435391334303,7.928330923343503e-4,0.03339042960661619,0.03494435391334303,0.036498278220069874,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2007,0.035579323185118125,7.928407428222981e-4,0.03402538388371044,0.035579323185118125,0.03713326248652581,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2008,0.03633115409496888,7.943033438171081e-4,0.03477434814828761,0.03633115409496888,0.03788796004165015,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2009,0.03710687974236441,7.963217469165373e-4,0.035546117798301975,0.03710687974236441,0.03866764168642684,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2010,0.03794821961691446,7.998099689980608e-4,0.03638062088320217,0.03794821961691446,0.03951581835062676,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2011,0.03886667580542904,8.041701168306585e-4,0.03729053133899758,0.03886667580542904,0.0404428202718605,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2012,0.03993359255930166,8.103576888730379e-4,0.03834532067451539,0.03993359255930166,0.041521864444087925,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2013,0.04113408311515618,8.196179596406588e-4,0.039527661433178284,0.04113408311515618,0.04274050479713408,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2014,0.0424574483546587,8.349627860830085e-4,0.04082095136550478,0.0424574483546587,0.04409394534381261,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2015,0.04377613478164658,8.540350435611987e-4,0.04210225685473153,0.04377613478164658,0.045450012708561624,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2016,0.04498990647830043,8.672261127872983e-4,0.04329017453078465,0.04498990647830043,0.04668963842581621,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2017,0.045923680569220096,8.66027622710168e-4,0.044226297619091325,0.045923680569220096,0.04762106351934887,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2018,0.04659531258713272,8.606003630002991e-4,0.04490856687057003,0.04659531258713272,0.0482820583036954,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2019,0.04723620686231447,8.660339700421491e-4,0.045538811471643625,0.04723620686231447,0.04893360225298533,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2020,0.04810796809125558,8.815342064688153e-4,0.04638019279543661,0.04810796809125558,0.049835743387074555,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2021,0.04960035382624699,9.194607981148274e-4,0.04779824377674548,0.04960035382624699,0.051402463875748504,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2022,0.051392396233202374,0.0010392436085833628,0.04935551618921555,0.051392396233202374,0.05342927627718921,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2023,0.05308990913358138,0.0013354623441055218,0.050472451036425114,0.05308990913358138,0.05570736723073763,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2024,0.05478260704721095,0.002066455231674721,0.05073242921746412,0.05478260704721095,0.058832784876957776,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2025,0.05660431072450864,0.0029321916104396734,0.05085732077227638,0.05660431072450864,0.0623513006767409,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2026,0.058489401533379046,0.004009503978300579,0.05063091814003985,0.058489401533379046,0.06634788492671825,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2027,0.060432187861281406,0.005276025953593318,0.05009136701073991,0.060432187861281406,0.0707730087118229,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2028,0.062427053671531105,0.006724560861056829,0.04924715657201206,0.062427053671531105,0.07560695077105013,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2029,0.06447649296723512,0.008356339474220827,0.04809836855517194,0.06447649296723512,0.0808546173792983,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2030,0.06658727520636974,0.010175386469854861,0.04664388419667805,0.06658727520636974,0.08653066621606142,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2031,0.06876123673715348,0.01218841757452723,0.04487237726254507,0.06876123673715348,0.09265009621176189,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2032,0.07099114776331754,0.014402472512104601,0.0427628203512644,0.07099114776331754,0.09921947517537065,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2033,0.07326895929539372,0.016824828132828786,0.04029290210897302,0.07326895929539372,0.1062450164818144,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2034,0.07559547635379875,0.01946430889213539,0.03744613194125066,0.07559547635379875,0.11374482076634682,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2035,0.07797676548548783,0.02232994063541813,0.034210886063150855,0.07797676548548783,0.12174264490782481,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2036,0.08041328302906907,0.025430768292593022,0.030569893076403593,0.08041328302906907,0.13025667298173454,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2037,0.08289682085308893,0.028773937634114406,0.026500939396823044,0.08289682085308893,0.1392927023093548,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2038,0.08541842172300583,0.03236599444455816,0.021982238287848357,0.08541842172300583,0.14885460515816332,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2039,0.08797769648103729,0.03621581619729816,0.01699600106361056,0.08797769648103729,0.158959391898464,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2040,0.09058060587421855,0.040333749322645635,0.011527909840366316,0.09058060587421855,0.16963330190807077,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2041,0.09322702256773474,0.044728815924035534,0.005560154285503448,0.09322702256773474,0.18089389084996604,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2042,0.09590912471170923,0.049406863001103335,0,0.09590912471170923,0.1927447967829763,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2043,0.09861858926544911,0.05437290774185965,0,0.09861858926544911,0.20518753017421307,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2044,0.10135440924739107,0.05963500465415571,0,0.10135440924739107,0.21823687058741473,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2045,0.10412278215358738,0.06520450375676462,0,0.10412278215358738,0.23192126114665265,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2046,0.10692387711304342,0.07109029251361315,0,0.10692387711304342,0.2462582900901426,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2047,0.10975171417989542,0.07729759841221773,0,0.10975171417989542,0.2612522231592826,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2048,0.1126003039582314,0.08383113882055061,0,0.1126003039582314,0.27690631682948813,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2049,0.1154698315356221,0.09069948878583241,0,0.1154698315356221,0.29323756297204806,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+1,Deaths,high_bmi_attr,2050,0.11836767307299892,0.09791639040128201,0,0.11836767307299892,0.310280271755675,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1990,55.632898130646396,0.09435379632690193,55.44796808804104,55.632898130646396,55.817828173251755,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1991,55.179524832728134,0.09193939999971798,54.99932691996847,55.179524832728134,55.3597227454878,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1992,54.841241078214935,0.09047450326580016,54.663914310294814,54.841241078214935,55.018567846135056,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1993,54.58233051892995,0.08914863178550674,54.40760241135933,54.58233051892995,54.757058626500566,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1994,54.58208237398901,0.0880341623140451,54.409538586444334,54.58208237398901,54.75462616153369,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1995,54.493408099647304,0.08691893228041028,54.323050122803025,54.493408099647304,54.663766076491584,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1996,53.94093251315104,0.0853712797539607,53.77360787951918,53.94093251315104,54.10825714678289,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1997,52.87443170897367,0.0834182995966231,52.710934846112714,52.87443170897367,53.03792857183462,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1998,52.115198013356036,0.0817515058780478,51.95496800615314,52.115198013356036,52.27542802055893,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,1999,51.63650874545798,0.08018515073813567,51.479348737916325,51.63650874545798,51.793668752999636,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2000,51.1631657537164,0.07875167944536818,51.00881529828143,51.1631657537164,51.317516209151364,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2001,50.40771674342667,0.0769975324033332,50.25680435301768,50.40771674342667,50.55862913383566,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2002,49.25768345194639,0.07492605434424035,49.110831083928,49.25768345194639,49.40453581996479,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2003,48.150922908574486,0.07293170353745256,48.00797939630993,48.150922908574486,48.293866420839045,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2004,47.472026421586854,0.07117667317784035,47.332522705618906,47.472026421586854,47.6115301375548,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2005,46.71376727741781,0.06953159634292118,46.577487852798114,46.71376727741781,46.85004670203751,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2006,46.5649840674173,0.06831696466905746,46.43108527713285,46.5649840674173,46.69888285770174,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2007,46.94179021066224,0.06753601989032107,46.80942204401803,46.94179021066224,47.07415837730645,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2008,47.66257033634686,0.06703029132236052,47.531193379481806,47.66257033634686,47.793947293211914,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2009,47.482004197303006,0.06588093607376738,47.35287993533064,47.482004197303006,47.61112845927538,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2010,46.92570876977578,0.06453012949622337,46.79923204004548,46.92570876977578,47.05218549950608,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2011,46.0675410675593,0.06295357539848627,45.94415432708024,46.0675410675593,46.19092780803836,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2012,45.504307963287516,0.06158456929889541,45.38360442545827,45.504307963287516,45.62501150111677,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2013,44.88611010059663,0.060179035631663096,44.768161358134215,44.88611010059663,45.00405884305904,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2014,45.18766619412429,0.059379683296431986,45.07128415344989,45.18766619412429,45.30404823479869,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2015,45.39068276702743,0.05865900733540959,45.27571322528115,45.39068276702743,45.505652308773705,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2016,45.874153560740915,0.058108523566315906,45.76026294735614,45.874153560740915,45.98804417412569,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2017,45.583151165779775,0.05703543332519542,45.47136377061975,45.583151165779775,45.694938560939796,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2018,44.46908075864426,0.055420840022166844,44.36045790820785,44.46908075864426,44.577703609080665,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2019,43.241042532273596,0.05374304871337545,43.135708092376,43.241042532273596,43.34637697217119,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2020,42.30475939154368,0.05241340927895828,42.202030997049974,42.30475939154368,42.4074877860374,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2021,43.093338239562215,0.05225047480701852,42.99092919076534,43.093338239562215,43.195747288359094,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2022,45.03102504556573,0.0528186804372792,44.927502334197726,45.03102504556573,45.13454775693372,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2023,43.2828578086663,0.05141679932570302,43.1820827337876,43.2828578086663,43.383632883545005,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2024,43.91807244102557,0.8406711322613276,42.27038729895086,43.91807244102557,45.56575758310028,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2025,43.853844283194945,1.4122273802792213,41.08592947986632,43.853844283194945,46.62175908652357,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2026,43.81922781722338,2.137067620939086,39.63065224765607,43.81922781722338,48.007803386790684,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2027,43.800539611617914,2.971068157834999,37.97735302664755,43.800539611617914,49.62372619658827,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2028,43.780774070304105,3.895454292025252,36.145823954512636,43.780774070304105,51.41572418609557,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2029,43.78221911437166,4.905107036068592,34.1683859833632,43.78221911437166,53.396052245380105,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2030,43.798794647029425,5.992485251262056,32.05373937666834,43.798794647029425,55.54384991739051,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2031,43.8345947215364,7.15324644929074,29.814489308387525,43.8345947215364,57.854700134685274,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2032,43.8800535969764,8.382388886347352,27.450873275326785,43.8800535969764,60.30923391862602,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2033,43.91933984642505,9.6746310365579,24.95741145105816,43.91933984642505,62.88126824179194,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2034,43.97306903070532,11.034046698084222,22.346734898727142,43.97306903070532,65.5994031626835,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2035,44.03659335093003,12.457401365564738,19.620535333463067,44.03659335093003,68.45265136839701,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2036,44.115176120220625,13.944419226719532,16.78461665052248,44.115176120220625,71.44573558991877,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2037,44.206295598931504,15.493312339066037,13.839961413132055,44.206295598931504,74.57262978473095,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2038,44.297989660200685,17.09971885535547,10.783156557943498,44.297989660200685,77.81282276245788,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2039,44.41069461707406,18.772869247147742,7.6165470061849305,44.41069461707406,81.20484222796318,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2040,44.54305393213802,20.512709921905067,4.338881259886672,44.54305393213802,84.74722660438937,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2041,44.700715443179675,22.32268700469895,0.9490528758094458,44.700715443179675,88.4523780105499,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2042,44.88408854609786,24.204621386800294,0,44.88408854609786,92.32427472365436,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2043,45.08031736588698,26.153879296255024,0,45.08031736588698,96.34097884255459,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2044,45.3042027619103,28.182336702639738,0,45.3042027619103,100.54056769926548,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2045,45.554434906719415,30.291804187918736,0,45.554434906719415,104.9252801417797,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2046,45.8331272429944,32.48643479471512,0,45.8331272429944,109.5053694267449,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2047,46.13755265251547,34.76733429060406,0,46.13755265251547,114.28027570056383,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2048,46.45074791635492,37.12473648151665,0,46.45074791635492,119.21389435566778,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2049,46.7818385432416,39.569036460066975,0,46.7818385432416,124.33572490792513,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),total,2050,47.13063386222934,42.10243775087022,0,47.13063386222934,129.64989551527452,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1990,0.7409622897427559,0.009914544658914278,0.72153013928817,0.7409622897427559,0.7603944401973418,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1991,0.7652666308956245,0.009056666334058643,0.7475158910608732,0.7652666308956245,0.7830173707303759,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1992,0.7906149820527097,0.009124606393160184,0.7727310821490119,0.7906149820527097,0.8084988819564075,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1993,0.8163904809572726,0.009207840631491602,0.7983434449441645,0.8163904809572726,0.8344375169703807,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1994,0.8489768642294495,0.009332039564362227,0.8306864027809967,0.8489768642294495,0.8672673256779022,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1995,0.8818641001017588,0.00946551621262899,0.8633120292299259,0.8818641001017588,0.9004161709735916,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1996,0.9054093883782427,0.009529155976206814,0.8867325858618128,0.9054093883782427,0.9240861908946726,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1997,0.919910234984285,0.009530445383659552,0.9012309052756864,0.919910234984285,0.9385895646928838,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1998,0.9341966243186762,0.009531671083023508,0.9155148922834683,0.9341966243186762,0.9528783563538843,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,1999,0.9543356153857332,0.009550888305306303,0.935616218286968,0.9543356153857332,0.9730550124844983,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2000,0.9719792744346956,0.009563232322468118,0.9532356835068688,0.9719792744346956,0.9907228653625224,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2001,0.9817628268566816,0.009515565070167199,0.9631126620266065,0.9817628268566816,1.0004129916867568,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2002,0.9691968174338197,0.009328094407913896,0.9509140883499191,0.9691968174338197,0.9874795465177203,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2003,0.94859883571537,0.009097010307451305,0.9307690231457758,0.94859883571537,0.9664286482849641,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2004,0.9302483637513489,0.008871397286586511,0.912860744577093,0.9302483637513489,0.9476359829256049,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2005,0.9303209958458918,0.008766375679379022,0.9131392152393611,0.9303209958458918,0.9475027764524224,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2006,0.9490937501731896,0.00875264699815759,0.9319388772874081,0.9490937501731896,0.9662486230589712,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2007,0.9813054458863638,0.008813334024848027,0.9640316286139402,0.9813054458863638,0.9985792631587874,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2008,1.0201530525102167,0.008908976163747345,1.002691780090146,1.0201530525102167,1.0376143249302874,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2009,1.0362815969054109,0.008874389191643055,1.018888113704999,1.0362815969054109,1.0536750801058228,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2010,1.0456347873075542,0.008813062437069849,1.0283615023373944,1.0456347873075542,1.062908072277714,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2011,1.0478457265629866,0.008712071680566277,1.0307703798383452,1.0478457265629866,1.0649210732876278,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2012,1.0718953091278023,0.008712315835219437,1.0548194838688343,1.0718953091278023,1.0889711343867705,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2013,1.1088371388868443,0.008762597839452964,1.091662762710508,1.1088371388868443,1.1260115150631806,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2014,1.1720487912389432,0.008914151022680124,1.1545773762817393,1.1720487912389432,1.1895202061961472,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2015,1.2333474223901448,0.009056618349824557,1.2155967766027642,1.2333474223901448,1.2510980681775254,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2016,1.2912010688310673,0.009171372740281595,1.273225508571323,1.2912010688310673,1.3091766290908118,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2017,1.3114764263532366,0.00911709393000997,1.2936072506067482,1.3114764263532366,1.3293456020997247,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2018,1.2907832291026446,0.008890291391425042,1.273358578163385,1.2907832291026446,1.3082078800419041,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2019,1.2608444382070019,0.0086480963595451,1.2438944808074617,1.2608444382070019,1.2777943956065423,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2020,1.2554766376730517,0.008527830907932422,1.2387623962272565,1.2554766376730517,1.2721908791188468,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2021,1.3538911036190602,0.008792945324400466,1.3366572474652054,1.3538911036190602,1.3711249597729152,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2022,1.4629220463553074,0.009081335630453607,1.4451229555880982,1.4629220463553074,1.4807211371225169,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2023,1.5204891597915307,0.00950441490149499,1.5018608488904746,1.5204891597915307,1.5391174706925865,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2024,1.6407086333729246,0.05703247870060909,1.5289270291706831,1.6407086333729246,1.752490237575166,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2025,1.7423521132101705,0.10263556025352229,1.541190111580176,1.7423521132101705,1.943514114840165,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2026,1.8504044126785804,0.16510942311091048,1.5267958898730107,1.8504044126785804,2.17401293548415,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2027,1.9647457529952903,0.2441254585620312,1.4862686465043837,1.9647457529952903,2.4432228594861964,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2028,2.0854189404318966,0.34050895962810807,1.4180336431476017,2.0854189404318966,2.752804237716192,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2029,2.2130657581664614,0.45567668894021895,1.3199558592491711,2.2130657581664614,3.1061756570837513,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2030,2.348374542829171,0.5912946291794403,1.1894583653855018,2.348374542829171,3.5072907202728403,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2031,2.4918895718160665,0.7492940001104887,1.0233003177675575,2.4918895718160665,3.9604788258645756,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2032,2.643434041981258,0.9316178311897377,0.8174966454940565,2.643434041981258,4.46937143846846,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2033,2.8030560402859463,1.1404216401712932,0.5678706983601151,2.8030560402859463,5.038241382211777,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2034,2.9716378647436983,1.3783988932113165,0.27002567771964614,2.9716378647436983,5.67325005176775,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2035,3.1504566389525586,1.648653067184457,0,3.1504566389525586,6.381757273635587,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2036,3.3403991232816095,1.9544822396369057,0,3.3403991232816095,7.171113921393128,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2037,3.541478754226212,2.298974738095491,0,3.541478754226212,8.047386442260775,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2038,3.7539862605612604,2.6855796574963446,0,3.7539862605612604,9.017625666867508,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2039,3.9792560402627366,3.1187973277201864,0,3.9792560402627366,10.091986477674066,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2040,4.219572064677276,3.604324442154554,0,4.219572064677276,11.283918159897622,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2041,4.47655585351796,4.148033273206185,0,4.47655585351796,12.606551675675872,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2042,4.750835016773983,4.7554470872132,0,4.750835016773983,14.071340038097757,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2043,5.043328980876407,5.432797304922471,0,5.043328980876407,15.691416033830716,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2044,5.356081817010704,6.1881082360048385,0,5.356081817010704,17.48455109201587,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2045,5.692659734132079,7.032001517920082,0,5.692659734132079,19.475129448486427,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2046,6.055733716994669,7.975273391926135,0,6.055733716994669,21.686982332030485,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2047,6.4469727502893726,9.028443274278926,0,6.4469727502893726,24.142396404338943,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2048,6.8683704311893985,10.203363831714274,0,6.8683704311893985,26.866596062507977,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2049,7.323070091069855,11.514684274316885,0,7.323070091069855,29.89143656208067,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,2050,7.816125194629713,12.98149954122924,0,7.816125194629713,33.25939676076226,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."

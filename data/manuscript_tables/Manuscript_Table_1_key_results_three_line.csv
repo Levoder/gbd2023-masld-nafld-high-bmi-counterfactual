@@ -1,0 +1,20 @@
+Domain,Endpoint or comparison,Estimate,Unit,Interval or sensitivity range,Interpretation note
+2023 burden,Scenario A potentially avoidable deaths,107.4,deaths,20.3 to 347.1,Sex-equalized high-BMI counterfactual; main Block 3 proxy interval.
+2023 burden,Scenario A potentially avoidable DALYs,2797.1,DALYs,532.8 to 9047.8,Small but identifiable sub-burden under the sex-equalized high-BMI counterfactual.
+2023 relative burden,Scenario A deaths as share of total burden,0.411,%,,Share of total MASLD/NAFLD-related death burden.
+2023 relative burden,Scenario A DALYs as share of total burden,0.397,%,,Share of total MASLD/NAFLD-related DALY burden.
+2023 high-BMI component,Scenario A deaths as share of observed high-BMI-attributable burden,12.12,%,,Proportion of the observed high-BMI-attributable component addressed by sex equalization.
+2023 high-BMI component,Scenario A DALYs as share of observed high-BMI-attributable burden,11.29,%,,Proportion of the observed high-BMI-attributable component addressed by sex equalization.
+TMREL upper bound,Scenario B potentially avoidable deaths,885.8,deaths,3.39% of total burden,High BMI at TMREL; theoretical upper bound nested above Scenario A.
+TMREL upper bound,Scenario B potentially avoidable DALYs,24774.9,DALYs,3.51% of total burden,High BMI at TMREL; theoretical upper bound nested above Scenario A.
+Risk-factor comparison,Locations where high FPG had the highest 30+ internal standardized DALY rate,27,locations out of 34,,Risk-factor estimates are non-additive and non-mutually exclusive.
+Risk-factor comparison,Locations where high BMI had the highest 30+ internal standardized DALY rate,3,locations out of 34,,High BMI was not the dominant regional MASLD/NAFLD-related risk signal.
+Risk-factor comparison,Locations where smoking had the highest 30+ internal standardized DALY rate,4,locations out of 34,,Smoking was included as a non-metabolic comparator.
+2050 projection,"Baseline projection, deaths",1.454,"internal 20+ ASR per 100,000",0 to 4.824,BAPC scenario projection using WPP 2024 future person-years; not an IHME official forecast.
+2050 projection,"Scenario A projection, deaths",1.44,"internal 20+ ASR per 100,000",0 to 4.824; 0.98% reduction,Sex-equalized high-BMI scenario.
+2050 projection,"Scenario B projection, deaths",1.336,"internal 20+ ASR per 100,000",0 to 4.824; 8.14% reduction,TMREL theoretical upper-bound scenario.
+2050 projection,"Baseline projection, DALYs",47.131,"internal 20+ ASR per 100,000",0 to 129.65,BAPC scenario projection using WPP 2024 future person-years; not an IHME official forecast.
+2050 projection,"Scenario A projection, DALYs",46.245,"internal 20+ ASR per 100,000",0 to 129.65; 1.88% reduction,Scenario A effect remained modest in projection.
+2050 projection,"Scenario B projection, DALYs",39.315,"internal 20+ ASR per 100,000",0 to 129.65; 16.58% reduction,Scenario B is not additive with Scenario A.
+Uncertainty,"Summary-UI proxy propagation, deaths",111.6,median deaths,31.5 to 442.2,Proxy propagation with rho=0.8; not GBD draw-level uncertainty.
+Uncertainty,"Summary-UI proxy propagation, DALYs",2905.5,median DALYs,808.1 to 11643.9,Proxy propagation with rho=0.8; not GBD draw-level uncertainty.

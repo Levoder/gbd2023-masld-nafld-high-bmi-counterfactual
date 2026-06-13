@@ -1,0 +1,9 @@
+measure_id,measure_name,burden_type,model_status,min_rate,max_rate
+1,Deaths,total,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached.",1.4485016432913946,2.055181427306303
+1,Deaths,high_bmi_attr,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached.",0.025557689992619023,0.11836767307299892
+2,DALYs (Disability-Adjusted Life Years),total,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached.",42.30475939154368,55.632898130646396
+2,DALYs (Disability-Adjusted Life Years),high_bmi_attr,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached.",0.7409622897427559,7.816125194629713

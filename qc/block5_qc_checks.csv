@@ -1,0 +1,27 @@
+check,status,detail
+scenario_row_count,PASS,366 vs 366
+component_row_count,PASS,244 vs 244
+summary_2050_row_count,PASS,6 vs 6
+model_status_row_count,PASS,4 vs 4
+years_complete,PASS,1990-2050
+measures_complete,PASS,"1,2"
+scenarios_complete,PASS,Observed projection; Scenario A: sex-equalized high BMI; Scenario B: high BMI at TMREL
+scenario_rates_non_negative,PASS,0
+scenario_intervals_ordered,PASS,0
+scenario_a_not_above_observed_future,PASS,0
+scenario_b_not_above_scenario_a_future,PASS,0
+reduction_fractions_in_unit_interval,PASS,"0.120691633177998,0.113246521479422"
+model_status_documents_rounded_counts,PASS,"bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached. | bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached. | bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached. | bapc_rounded_counts_after_fractional_error: The inla program call crashed.
+The inla program failed and the maximum number of tries has been reached."
+population_projection_future_complete,PASS,432
+population_projection_positive,PASS,149774.602460709
+future_population_method_is_wpp,PASS,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+population_2050_matches_wpp_reference,PASS,1744298695 vs 1744298695
+wpp_age_review_complete,PASS,448
+figure4_png_exists_nonempty,PASS,bytes= 174657
+figure4_svg_exists_nonempty,PASS,bytes= 27524
+figure4_pdf_exists_nonempty,PASS,bytes= 39180
+figure4_tiff_exists_nonempty,PASS,bytes= 340606

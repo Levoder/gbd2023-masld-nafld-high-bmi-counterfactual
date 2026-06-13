@@ -1,0 +1,977 @@
+year,age_key,population,population_projection_method
+1990,20-24,181577429.54224837,observed proxy from D_total Number/Rate
+1990,25-29,154721219.79026243,observed proxy from D_total Number/Rate
+1990,30-34,127172552.7770907,observed proxy from D_total Number/Rate
+1990,35-39,123227470.30648826,observed proxy from D_total Number/Rate
+1990,40-44,91596410.8935344,observed proxy from D_total Number/Rate
+1990,45-49,72073112.5923182,observed proxy from D_total Number/Rate
+1990,50-54,65989164.164932854,observed proxy from D_total Number/Rate
+1990,55-59,58523705.72479774,observed proxy from D_total Number/Rate
+1990,60-64,47536319.41914552,observed proxy from D_total Number/Rate
+1990,65-69,36174146.71154906,observed proxy from D_total Number/Rate
+1990,70-74,24622731.93544395,observed proxy from D_total Number/Rate
+1990,75-79,14925643.074271297,observed proxy from D_total Number/Rate
+1990,80-84,7513700.088436775,observed proxy from D_total Number/Rate
+1990,85-89,2870700.992421674,observed proxy from D_total Number/Rate
+1990,90-94,656941.1799597089,observed proxy from D_total Number/Rate
+1990,95+,149774.60246070885,observed proxy from D_total Number/Rate
+1991,20-24,181553984.6457497,observed proxy from D_total Number/Rate
+1991,25-29,164687255.15464908,observed proxy from D_total Number/Rate
+1991,30-34,126388729.52611297,observed proxy from D_total Number/Rate
+1991,35-39,127955565.0848802,observed proxy from D_total Number/Rate
+1991,40-44,96925181.00702438,observed proxy from D_total Number/Rate
+1991,45-49,74422242.06973991,observed proxy from D_total Number/Rate
+1991,50-54,66153094.109176554,observed proxy from D_total Number/Rate
+1991,55-59,59920844.95427458,observed proxy from D_total Number/Rate
+1991,60-64,48856337.5062427,observed proxy from D_total Number/Rate
+1991,65-69,37209381.03201875,observed proxy from D_total Number/Rate
+1991,70-74,25399682.6848027,observed proxy from D_total Number/Rate
+1991,75-79,15440612.280577604,observed proxy from D_total Number/Rate
+1991,80-84,7755728.489998303,observed proxy from D_total Number/Rate
+1991,85-89,3025013.8957409277,observed proxy from D_total Number/Rate
+1991,90-94,732720.0987484582,observed proxy from D_total Number/Rate
+1991,95+,161391.03648222217,observed proxy from D_total Number/Rate
+1992,20-24,180338403.68856648,observed proxy from D_total Number/Rate
+1992,25-29,172442602.32372075,observed proxy from D_total Number/Rate
+1992,30-34,129156422.75069712,observed proxy from D_total Number/Rate
+1992,35-39,130471693.77684812,observed proxy from D_total Number/Rate
+1992,40-44,102157393.63793261,observed proxy from D_total Number/Rate
+1992,45-49,77346547.27822764,observed proxy from D_total Number/Rate
+1992,50-54,66430092.590409,observed proxy from D_total Number/Rate
+1992,55-59,61008243.10257524,observed proxy from D_total Number/Rate
+1992,60-64,50129391.12571522,observed proxy from D_total Number/Rate
+1992,65-69,38220189.61342296,observed proxy from D_total Number/Rate
+1992,70-74,26239028.33121622,observed proxy from D_total Number/Rate
+1992,75-79,15958660.755619042,observed proxy from D_total Number/Rate
+1992,80-84,8039065.484666614,observed proxy from D_total Number/Rate
+1992,85-89,3168014.8396562627,observed proxy from D_total Number/Rate
+1992,90-94,811189.3938549407,observed proxy from D_total Number/Rate
+1992,95+,176279.0622346263,observed proxy from D_total Number/Rate
+1993,20-24,178397002.63130236,observed proxy from D_total Number/Rate
+1993,25-29,176940555.77170753,observed proxy from D_total Number/Rate
+1993,30-34,136326806.48432723,observed proxy from D_total Number/Rate
+1993,35-39,129750376.939637,observed proxy from D_total Number/Rate
+1993,40-44,108974143.85549532,observed proxy from D_total Number/Rate
+1993,45-49,79806630.97769772,observed proxy from D_total Number/Rate
+1993,50-54,67077429.226726845,observed proxy from D_total Number/Rate
+1993,55-59,61637266.48750179,observed proxy from D_total Number/Rate
+1993,60-64,51296478.673067234,observed proxy from D_total Number/Rate
+1993,65-69,39351913.274336316,observed proxy from D_total Number/Rate
+1993,70-74,27133501.873880822,observed proxy from D_total Number/Rate
+1993,75-79,16489127.606682694,observed proxy from D_total Number/Rate
+1993,80-84,8301176.95755705,observed proxy from D_total Number/Rate
+1993,85-89,3296585.9252059218,observed proxy from D_total Number/Rate
+1993,90-94,877445.3771186701,observed proxy from D_total Number/Rate
+1993,95+,191343.98938125823,observed proxy from D_total Number/Rate
+1994,20-24,175496318.57263488,observed proxy from D_total Number/Rate
+1994,25-29,178982269.36306933,observed proxy from D_total Number/Rate
+1994,30-34,145920862.82052675,observed proxy from D_total Number/Rate
+1994,35-39,126995212.78282717,observed proxy from D_total Number/Rate
+1994,40-44,113398802.92038888,observed proxy from D_total Number/Rate
+1994,45-49,85738039.96704505,observed proxy from D_total Number/Rate
+1994,50-54,67857695.80888672,observed proxy from D_total Number/Rate
+1994,55-59,61756179.022122994,observed proxy from D_total Number/Rate
+1994,60-64,52584779.835299395,observed proxy from D_total Number/Rate
+1994,65-69,40532137.24710341,observed proxy from D_total Number/Rate
+1994,70-74,28181529.285315525,observed proxy from D_total Number/Rate
+1994,75-79,16923830.42974981,observed proxy from D_total Number/Rate
+1994,80-84,8623690.746583933,observed proxy from D_total Number/Rate
+1994,85-89,3393924.3293812852,observed proxy from D_total Number/Rate
+1994,90-94,948745.168619234,observed proxy from D_total Number/Rate
+1994,95+,205722.1872951428,observed proxy from D_total Number/Rate
+1995,20-24,171511905.0592604,observed proxy from D_total Number/Rate
+1995,25-29,179291344.3343419,observed proxy from D_total Number/Rate
+1995,30-34,155966264.14045453,observed proxy from D_total Number/Rate
+1995,35-39,124166935.21977486,observed proxy from D_total Number/Rate
+1995,40-44,120202968.86829092,observed proxy from D_total Number/Rate
+1995,45-49,89321602.36856855,observed proxy from D_total Number/Rate
+1995,50-54,68868199.13835609,observed proxy from D_total Number/Rate
+1995,55-59,61947070.18757107,observed proxy from D_total Number/Rate
+1995,60-64,53634093.96047287,observed proxy from D_total Number/Rate
+1995,65-69,41760736.36245099,observed proxy from D_total Number/Rate
+1995,70-74,29182715.634744752,observed proxy from D_total Number/Rate
+1995,75-79,17490989.478274245,observed proxy from D_total Number/Rate
+1995,80-84,8956343.624549842,observed proxy from D_total Number/Rate
+1995,85-89,3487178.572004792,observed proxy from D_total Number/Rate
+1995,90-94,1020685.2432505863,observed proxy from D_total Number/Rate
+1995,95+,223268.3183337321,observed proxy from D_total Number/Rate
+1996,20-24,166612370.96437138,observed proxy from D_total Number/Rate
+1996,25-29,178430904.3973003,observed proxy from D_total Number/Rate
+1996,30-34,164812671.51515922,observed proxy from D_total Number/Rate
+1996,35-39,123473537.48438284,observed proxy from D_total Number/Rate
+1996,40-44,124031154.79772654,observed proxy from D_total Number/Rate
+1996,45-49,94152187.36324377,observed proxy from D_total Number/Rate
+1996,50-54,71042724.91989094,observed proxy from D_total Number/Rate
+1996,55-59,61924306.53408732,observed proxy from D_total Number/Rate
+1996,60-64,54867858.64456953,observed proxy from D_total Number/Rate
+1996,65-69,42850333.84434636,observed proxy from D_total Number/Rate
+1996,70-74,30112874.845616806,observed proxy from D_total Number/Rate
+1996,75-79,18147663.306231823,observed proxy from D_total Number/Rate
+1996,80-84,9326522.60560621,observed proxy from D_total Number/Rate
+1996,85-89,3625382.824164322,observed proxy from D_total Number/Rate
+1996,90-94,1083134.2254120007,observed proxy from D_total Number/Rate
+1996,95+,249610.71823253285,observed proxy from D_total Number/Rate
+1997,20-24,161248247.38064337,observed proxy from D_total Number/Rate
+1997,25-29,177014954.36380172,observed proxy from D_total Number/Rate
+1997,30-34,171411472.3068245,observed proxy from D_total Number/Rate
+1997,35-39,126422072.89869775,observed proxy from D_total Number/Rate
+1997,40-44,125890303.23777644,observed proxy from D_total Number/Rate
+1997,45-49,98883305.89329435,observed proxy from D_total Number/Rate
+1997,50-54,73865930.09455615,observed proxy from D_total Number/Rate
+1997,55-59,62047620.24761238,observed proxy from D_total Number/Rate
+1997,60-64,55897944.818602085,observed proxy from D_total Number/Rate
+1997,65-69,43911139.51273365,observed proxy from D_total Number/Rate
+1997,70-74,31066754.690773368,observed proxy from D_total Number/Rate
+1997,75-79,18845227.454284873,observed proxy from D_total Number/Rate
+1997,80-84,9697867.011945477,observed proxy from D_total Number/Rate
+1997,85-89,3784066.4735531057,observed proxy from D_total Number/Rate
+1997,90-94,1140716.1215601792,observed proxy from D_total Number/Rate
+1997,95+,275437.3767341567,observed proxy from D_total Number/Rate
+1998,20-24,156275590.62492326,observed proxy from D_total Number/Rate
+1998,25-29,175304869.89520925,observed proxy from D_total Number/Rate
+1998,30-34,174905369.0692143,observed proxy from D_total Number/Rate
+1998,35-39,133740509.96030866,observed proxy from D_total Number/Rate
+1998,40-44,124845713.32391375,observed proxy from D_total Number/Rate
+1998,45-49,105184121.03216426,observed proxy from D_total Number/Rate
+1998,50-54,76303799.50750592,observed proxy from D_total Number/Rate
+1998,55-59,62570515.49207501,observed proxy from D_total Number/Rate
+1998,60-64,56563484.511560015,observed proxy from D_total Number/Rate
+1998,65-69,44901392.478030644,observed proxy from D_total Number/Rate
+1998,70-74,32143764.798735775,observed proxy from D_total Number/Rate
+1998,75-79,19598490.5204134,observed proxy from D_total Number/Rate
+1998,80-84,10081391.740612075,observed proxy from D_total Number/Rate
+1998,85-89,3939789.175376855,observed proxy from D_total Number/Rate
+1998,90-94,1192166.788839732,observed proxy from D_total Number/Rate
+1998,95+,299101.1505638121,observed proxy from D_total Number/Rate
+1999,20-24,152570222.79396954,observed proxy from D_total Number/Rate
+1999,25-29,172880573.19327232,observed proxy from D_total Number/Rate
+1999,30-34,176248226.87223068,observed proxy from D_total Number/Rate
+1999,35-39,143425671.0588424,observed proxy from D_total Number/Rate
+1999,40-44,122068705.92634223,observed proxy from D_total Number/Rate
+1999,45-49,109223800.37473726,observed proxy from D_total Number/Rate
+1999,50-54,82152799.72515942,observed proxy from D_total Number/Rate
+1999,55-59,63285478.15791188,observed proxy from D_total Number/Rate
+1999,60-64,56804449.935323834,observed proxy from D_total Number/Rate
+1999,65-69,46035086.22132853,observed proxy from D_total Number/Rate
+1999,70-74,33268358.915289726,observed proxy from D_total Number/Rate
+1999,75-79,20470197.760475468,observed proxy from D_total Number/Rate
+1999,80-84,10396427.678321589,observed proxy from D_total Number/Rate
+1999,85-89,4116693.122787624,observed proxy from D_total Number/Rate
+1999,90-94,1231739.996665499,observed proxy from D_total Number/Rate
+1999,95+,324606.56109465234,observed proxy from D_total Number/Rate
+2000,20-24,150370882.85816902,observed proxy from D_total Number/Rate
+2000,25-29,169455761.1732153,observed proxy from D_total Number/Rate
+2000,30-34,176296259.69072613,observed proxy from D_total Number/Rate
+2000,35-39,153517473.4395605,observed proxy from D_total Number/Rate
+2000,40-44,119436101.74780859,observed proxy from D_total Number/Rate
+2000,45-49,115696995.88578491,observed proxy from D_total Number/Rate
+2000,50-54,85749602.76925346,observed proxy from D_total Number/Rate
+2000,55-59,64298402.20672308,observed proxy from D_total Number/Rate
+2000,60-64,57138816.29388807,observed proxy from D_total Number/Rate
+2000,65-69,47007592.670730464,observed proxy from D_total Number/Rate
+2000,70-74,34431885.877212316,observed proxy from D_total Number/Rate
+2000,75-79,21309433.694440067,observed proxy from D_total Number/Rate
+2000,80-84,10798430.517292943,observed proxy from D_total Number/Rate
+2000,85-89,4303469.893323965,observed proxy from D_total Number/Rate
+2000,90-94,1271066.0705880527,observed proxy from D_total Number/Rate
+2000,95+,349917.9505000035,observed proxy from D_total Number/Rate
+2001,20-24,149330239.49844545,observed proxy from D_total Number/Rate
+2001,25-29,165071541.55385286,observed proxy from D_total Number/Rate
+2001,30-34,175722558.7679246,observed proxy from D_total Number/Rate
+2001,35-39,162378213.74656257,observed proxy from D_total Number/Rate
+2001,40-44,119066858.83982526,observed proxy from D_total Number/Rate
+2001,45-49,119463918.40372713,observed proxy from D_total Number/Rate
+2001,50-54,90591628.49690962,observed proxy from D_total Number/Rate
+2001,55-59,66515318.32413286,observed proxy from D_total Number/Rate
+2001,60-64,57294497.06644438,observed proxy from D_total Number/Rate
+2001,65-69,48207996.14333027,observed proxy from D_total Number/Rate
+2001,70-74,35466831.50153949,observed proxy from D_total Number/Rate
+2001,75-79,22114825.50611892,observed proxy from D_total Number/Rate
+2001,80-84,11264214.88373005,observed proxy from D_total Number/Rate
+2001,85-89,4510069.224314752,observed proxy from D_total Number/Rate
+2001,90-94,1327436.1759075392,observed proxy from D_total Number/Rate
+2001,95+,373554.71611903614,observed proxy from D_total Number/Rate
+2002,20-24,149275579.31117225,observed proxy from D_total Number/Rate
+2002,25-29,160144368.29515284,observed proxy from D_total Number/Rate
+2002,30-34,174911341.12760696,observed proxy from D_total Number/Rate
+2002,35-39,169069108.18616614,observed proxy from D_total Number/Rate
+2002,40-44,122316523.72492456,observed proxy from D_total Number/Rate
+2002,45-49,121488176.32691994,observed proxy from D_total Number/Rate
+2002,50-54,95372859.0614658,observed proxy from D_total Number/Rate
+2002,55-59,69416963.21471721,observed proxy from D_total Number/Rate
+2002,60-64,57613419.37109153,observed proxy from D_total Number/Rate
+2002,65-69,49281358.23791144,observed proxy from D_total Number/Rate
+2002,70-74,36493659.61601712,observed proxy from D_total Number/Rate
+2002,75-79,22969283.246889528,observed proxy from D_total Number/Rate
+2002,80-84,11786210.455687169,observed proxy from D_total Number/Rate
+2002,85-89,4733407.562938211,observed proxy from D_total Number/Rate
+2002,90-94,1397157.8220357527,observed proxy from D_total Number/Rate
+2002,95+,397714.6838984284,observed proxy from D_total Number/Rate
+2003,20-24,150567162.29134285,observed proxy from D_total Number/Rate
+2003,25-29,155529192.73962975,observed proxy from D_total Number/Rate
+2003,30-34,173922727.99791417,observed proxy from D_total Number/Rate
+2003,35-39,172795628.18212038,observed proxy from D_total Number/Rate
+2003,40-44,129842414.92463176,observed proxy from D_total Number/Rate
+2003,45-49,120800242.1132081,observed proxy from D_total Number/Rate
+2003,50-54,101712388.73200952,observed proxy from D_total Number/Rate
+2003,55-59,71984304.88278222,observed proxy from D_total Number/Rate
+2003,60-64,58339948.25240542,observed proxy from D_total Number/Rate
+2003,65-69,50064780.142163485,observed proxy from D_total Number/Rate
+2003,70-74,37496811.780934,observed proxy from D_total Number/Rate
+2003,75-79,23957257.66081465,observed proxy from D_total Number/Rate
+2003,80-84,12360389.12360602,observed proxy from D_total Number/Rate
+2003,85-89,4973015.95056175,observed proxy from D_total Number/Rate
+2003,90-94,1465432.8142703092,observed proxy from D_total Number/Rate
+2003,95+,420135.86573794147,observed proxy from D_total Number/Rate
+2004,20-24,153609993.99643093,observed proxy from D_total Number/Rate
+2004,25-29,152122662.93366376,observed proxy from D_total Number/Rate
+2004,30-34,172200650.18294576,observed proxy from D_total Number/Rate
+2004,35-39,174483844.97610208,observed proxy from D_total Number/Rate
+2004,40-44,139687397.50417238,observed proxy from D_total Number/Rate
+2004,45-49,118446421.88567635,observed proxy from D_total Number/Rate
+2004,50-54,105924431.34562568,observed proxy from D_total Number/Rate
+2004,55-59,77826072.61280677,observed proxy from D_total Number/Rate
+2004,60-64,59273773.47345337,observed proxy from D_total Number/Rate
+2004,65-69,50492500.03715989,observed proxy from D_total Number/Rate
+2004,70-74,38660117.37334005,observed proxy from D_total Number/Rate
+2004,75-79,24976519.699324943,observed proxy from D_total Number/Rate
+2004,80-84,13018846.693918882,observed proxy from D_total Number/Rate
+2004,85-89,5194300.601558537,observed proxy from D_total Number/Rate
+2004,90-94,1548710.7209538906,observed proxy from D_total Number/Rate
+2004,95+,436130.2135110793,observed proxy from D_total Number/Rate
+2005,20-24,158537853.37054345,observed proxy from D_total Number/Rate
+2005,25-29,150179395.6162571,observed proxy from D_total Number/Rate
+2005,30-34,169379536.56828812,observed proxy from D_total Number/Rate
+2005,35-39,174933708.71515325,observed proxy from D_total Number/Rate
+2005,40-44,149933764.83345175,observed proxy from D_total Number/Rate
+2005,45-49,116197291.74690323,observed proxy from D_total Number/Rate
+2005,50-54,112503510.1458597,observed proxy from D_total Number/Rate
+2005,55-59,81501192.0557472,observed proxy from D_total Number/Rate
+2005,60-64,60510093.09006692,observed proxy from D_total Number/Rate
+2005,65-69,51031510.97610704,observed proxy from D_total Number/Rate
+2005,70-74,39720569.42287474,observed proxy from D_total Number/Rate
+2005,75-79,26130152.990859114,observed proxy from D_total Number/Rate
+2005,80-84,13721968.4901916,observed proxy from D_total Number/Rate
+2005,85-89,5491128.163368286,observed proxy from D_total Number/Rate
+2005,90-94,1649039.7663170984,observed proxy from D_total Number/Rate
+2005,95+,460468.35880910454,observed proxy from D_total Number/Rate
+2006,20-24,165277733.2300336,observed proxy from D_total Number/Rate
+2006,25-29,149320886.52874333,observed proxy from D_total Number/Rate
+2006,30-34,165470308.0278914,observed proxy from D_total Number/Rate
+2006,35-39,174719086.82550406,observed proxy from D_total Number/Rate
+2006,40-44,158964925.70112547,observed proxy from D_total Number/Rate
+2006,45-49,116105124.49532002,observed proxy from D_total Number/Rate
+2006,50-54,116442082.5490681,observed proxy from D_total Number/Rate
+2006,55-59,86382572.61554198,observed proxy from D_total Number/Rate
+2006,60-64,62892500.30798189,observed proxy from D_total Number/Rate
+2006,65-69,51450814.437238924,observed proxy from D_total Number/Rate
+2006,70-74,40975802.80107877,observed proxy from D_total Number/Rate
+2006,75-79,27157431.74527435,observed proxy from D_total Number/Rate
+2006,80-84,14436800.042568868,observed proxy from D_total Number/Rate
+2006,85-89,5840583.192127699,observed proxy from D_total Number/Rate
+2006,90-94,1751489.4587609577,observed proxy from D_total Number/Rate
+2006,95+,493750.0858794942,observed proxy from D_total Number/Rate
+2007,20-24,172772388.4760525,observed proxy from D_total Number/Rate
+2007,25-29,149377514.6587292,observed proxy from D_total Number/Rate
+2007,30-34,160883698.59303248,observed proxy from D_total Number/Rate
+2007,35-39,174195748.71303833,observed proxy from D_total Number/Rate
+2007,40-44,165841127.95301226,observed proxy from D_total Number/Rate
+2007,45-49,119543628.93527727,observed proxy from D_total Number/Rate
+2007,50-54,118628472.88396041,observed proxy from D_total Number/Rate
+2007,55-59,91183440.78424062,observed proxy from D_total Number/Rate
+2007,60-64,65919170.365270786,observed proxy from D_total Number/Rate
+2007,65-69,52024006.215009816,observed proxy from D_total Number/Rate
+2007,70-74,42107938.83422288,observed proxy from D_total Number/Rate
+2007,75-79,28186955.693107132,observed proxy from D_total Number/Rate
+2007,80-84,15195585.94200145,observed proxy from D_total Number/Rate
+2007,85-89,6229848.878370427,observed proxy from D_total Number/Rate
+2007,90-94,1878947.1330486774,observed proxy from D_total Number/Rate
+2007,95+,527781.4283083174,observed proxy from D_total Number/Rate
+2008,20-24,179646327.76592624,observed proxy from D_total Number/Rate
+2008,25-29,150710592.8383563,observed proxy from D_total Number/Rate
+2008,30-34,156492579.64417678,observed proxy from D_total Number/Rate
+2008,35-39,173391462.05445504,observed proxy from D_total Number/Rate
+2008,40-44,169759229.386087,observed proxy from D_total Number/Rate
+2008,45-49,127196509.01940955,observed proxy from D_total Number/Rate
+2008,50-54,118100763.53056759,observed proxy from D_total Number/Rate
+2008,55-59,97475976.38952489,observed proxy from D_total Number/Rate
+2008,60-64,68586372.19726762,observed proxy from D_total Number/Rate
+2008,65-69,52949687.84425979,observed proxy from D_total Number/Rate
+2008,70-74,42948040.26474508,observed proxy from D_total Number/Rate
+2008,75-79,29190846.40130594,observed proxy from D_total Number/Rate
+2008,80-84,16030446.33485012,observed proxy from D_total Number/Rate
+2008,85-89,6645908.134580456,observed proxy from D_total Number/Rate
+2008,90-94,2012131.018645976,observed proxy from D_total Number/Rate
+2008,95+,558783.3166767571,observed proxy from D_total Number/Rate
+2009,20-24,184932914.64560822,observed proxy from D_total Number/Rate
+2009,25-29,154055131.00144356,observed proxy from D_total Number/Rate
+2009,30-34,153417829.79560527,observed proxy from D_total Number/Rate
+2009,35-39,171881138.0391477,observed proxy from D_total Number/Rate
+2009,40-44,171694813.40978315,observed proxy from D_total Number/Rate
+2009,45-49,137196173.5037604,observed proxy from D_total Number/Rate
+2009,50-54,115922083.14487863,observed proxy from D_total Number/Rate
+2009,55-59,101721969.04331191,observed proxy from D_total Number/Rate
+2009,60-64,74387780.20444748,observed proxy from D_total Number/Rate
+2009,65-69,54059520.632852174,observed proxy from D_total Number/Rate
+2009,70-74,43470564.20736171,observed proxy from D_total Number/Rate
+2009,75-79,30307277.71945829,observed proxy from D_total Number/Rate
+2009,80-84,16887964.94038449,observed proxy from D_total Number/Rate
+2009,85-89,7103283.366591619,observed proxy from D_total Number/Rate
+2009,90-94,2132053.98563163,observed proxy from D_total Number/Rate
+2009,95+,593362.1361544414,observed proxy from D_total Number/Rate
+2010,20-24,187259825.41879857,observed proxy from D_total Number/Rate
+2010,25-29,159282145.19518262,observed proxy from D_total Number/Rate
+2010,30-34,151718431.13990697,observed proxy from D_total Number/Rate
+2010,35-39,169162311.23272896,observed proxy from D_total Number/Rate
+2010,40-44,172348187.00003257,observed proxy from D_total Number/Rate
+2010,45-49,147574891.8399092,observed proxy from D_total Number/Rate
+2010,50-54,113824110.74956723,observed proxy from D_total Number/Rate
+2010,55-59,108231256.53627034,observed proxy from D_total Number/Rate
+2010,60-64,78061712.0446522,observed proxy from D_total Number/Rate
+2010,65-69,55432057.66087708,observed proxy from D_total Number/Rate
+2010,70-74,44096929.029065624,observed proxy from D_total Number/Rate
+2010,75-79,31342226.016996,observed proxy from D_total Number/Rate
+2010,80-84,17816409.870564993,observed proxy from D_total Number/Rate
+2010,85-89,7598372.856491821,observed proxy from D_total Number/Rate
+2010,90-94,2301842.7059488827,observed proxy from D_total Number/Rate
+2010,95+,637186.6068086774,observed proxy from D_total Number/Rate
+2011,20-24,185118926.509538,observed proxy from D_total Number/Rate
+2011,25-29,165743901.11660925,observed proxy from D_total Number/Rate
+2011,30-34,150634473.01427817,observed proxy from D_total Number/Rate
+2011,35-39,165004008.6262179,observed proxy from D_total Number/Rate
+2011,40-44,172128381.98209637,observed proxy from D_total Number/Rate
+2011,45-49,156593268.22547135,observed proxy from D_total Number/Rate
+2011,50-54,113786360.00345106,observed proxy from D_total Number/Rate
+2011,55-59,112121898.55274945,observed proxy from D_total Number/Rate
+2011,60-64,82858277.53245835,observed proxy from D_total Number/Rate
+2011,65-69,57819438.89291448,observed proxy from D_total Number/Rate
+2011,70-74,44635480.47025604,observed proxy from D_total Number/Rate
+2011,75-79,32523480.359878056,observed proxy from D_total Number/Rate
+2011,80-84,18681156.500567142,observed proxy from D_total Number/Rate
+2011,85-89,8106190.654313165,observed proxy from D_total Number/Rate
+2011,90-94,2488380.567429835,observed proxy from D_total Number/Rate
+2011,95+,684070.9369331296,observed proxy from D_total Number/Rate
+2012,20-24,180120091.37957835,observed proxy from D_total Number/Rate
+2012,25-29,172826096.0452717,observed proxy from D_total Number/Rate
+2012,30-34,150395460.35971394,observed proxy from D_total Number/Rate
+2012,35-39,160087896.2927633,observed proxy from D_total Number/Rate
+2012,40-44,171534645.8450831,observed proxy from D_total Number/Rate
+2012,45-49,163393618.5563019,observed proxy from D_total Number/Rate
+2012,50-54,117222834.38608797,observed proxy from D_total Number/Rate
+2012,55-59,114272840.30124661,observed proxy from D_total Number/Rate
+2012,60-64,87551097.89410336,observed proxy from D_total Number/Rate
+2012,65-69,60777739.97453934,observed proxy from D_total Number/Rate
+2012,70-74,45325836.14650943,observed proxy from D_total Number/Rate
+2012,75-79,33622560.863181695,observed proxy from D_total Number/Rate
+2012,80-84,19572375.54426096,observed proxy from D_total Number/Rate
+2012,85-89,8653257.972339557,observed proxy from D_total Number/Rate
+2012,90-94,2698565.8047237936,observed proxy from D_total Number/Rate
+2012,95+,730583.794473146,observed proxy from D_total Number/Rate
+2013,20-24,173498132.82157242,observed proxy from D_total Number/Rate
+2013,25-29,179326162.79454353,observed proxy from D_total Number/Rate
+2013,30-34,151570915.9698236,observed proxy from D_total Number/Rate
+2013,35-39,155450187.72412798,observed proxy from D_total Number/Rate
+2013,40-44,170682118.11406246,observed proxy from D_total Number/Rate
+2013,45-49,167238460.28117445,observed proxy from D_total Number/Rate
+2013,50-54,124825724.40009882,observed proxy from D_total Number/Rate
+2013,55-59,113779498.73205027,observed proxy from D_total Number/Rate
+2013,60-64,93664109.06037904,observed proxy from D_total Number/Rate
+2013,65-69,63362466.85932239,observed proxy from D_total Number/Rate
+2013,70-74,46342695.86458188,observed proxy from D_total Number/Rate
+2013,75-79,34537137.35810531,observed proxy from D_total Number/Rate
+2013,80-84,20489468.72064454,observed proxy from D_total Number/Rate
+2013,85-89,9266964.972355878,observed proxy from D_total Number/Rate
+2013,90-94,2912348.9244868476,observed proxy from D_total Number/Rate
+2013,95+,787589.6990839338,observed proxy from D_total Number/Rate
+2014,20-24,165870546.71326783,observed proxy from D_total Number/Rate
+2014,25-29,183631591.90010655,observed proxy from D_total Number/Rate
+2014,30-34,154455096.08241594,observed proxy from D_total Number/Rate
+2014,35-39,151915392.11827406,observed proxy from D_total Number/Rate
+2014,40-44,168960487.85299277,observed proxy from D_total Number/Rate
+2014,45-49,168999474.6900335,observed proxy from D_total Number/Rate
+2014,50-54,134658007.52289206,observed proxy from D_total Number/Rate
+2014,55-59,111655821.06550844,observed proxy from D_total Number/Rate
+2014,60-64,97797473.36008273,observed proxy from D_total Number/Rate
+2014,65-69,68884168.4248472,observed proxy from D_total Number/Rate
+2014,70-74,47506053.54220697,observed proxy from D_total Number/Rate
+2014,75-79,35193648.065877736,observed proxy from D_total Number/Rate
+2014,80-84,21536090.728838637,observed proxy from D_total Number/Rate
+2014,85-89,9906886.904976431,observed proxy from D_total Number/Rate
+2014,90-94,3161194.6377011556,observed proxy from D_total Number/Rate
+2014,95+,847108.5399161371,observed proxy from D_total Number/Rate
+2015,20-24,158379583.4237926,observed proxy from D_total Number/Rate
+2015,25-29,184778587.53873047,observed proxy from D_total Number/Rate
+2015,30-34,159184553.56343776,observed proxy from D_total Number/Rate
+2015,35-39,149736763.93874487,observed proxy from D_total Number/Rate
+2015,40-44,166011106.59272417,observed proxy from D_total Number/Rate
+2015,45-49,169479365.91679007,observed proxy from D_total Number/Rate
+2015,50-54,144804216.6933844,observed proxy from D_total Number/Rate
+2015,55-59,109618936.59191787,observed proxy from D_total Number/Rate
+2015,60-64,104034817.94511992,observed proxy from D_total Number/Rate
+2015,65-69,72349041.59496953,observed proxy from D_total Number/Rate
+2015,70-74,48869423.34102382,observed proxy from D_total Number/Rate
+2015,75-79,35936828.33907143,observed proxy from D_total Number/Rate
+2015,80-84,22501929.903667547,observed proxy from D_total Number/Rate
+2015,85-89,10571425.678731795,observed proxy from D_total Number/Rate
+2015,90-94,3404324.9484246154,observed proxy from D_total Number/Rate
+2015,95+,915396.9108484904,observed proxy from D_total Number/Rate
+2016,20-24,152252504.9927408,observed proxy from D_total Number/Rate
+2016,25-29,182081377.37684757,observed proxy from D_total Number/Rate
+2016,30-34,165658547.06620073,observed proxy from D_total Number/Rate
+2016,35-39,148539271.95392963,observed proxy from D_total Number/Rate
+2016,40-44,161868343.34371495,observed proxy from D_total Number/Rate
+2016,45-49,169266193.6751729,observed proxy from D_total Number/Rate
+2016,50-54,153634347.58384603,observed proxy from D_total Number/Rate
+2016,55-59,109659165.81078814,observed proxy from D_total Number/Rate
+2016,60-64,107716326.40185963,observed proxy from D_total Number/Rate
+2016,65-69,76902140.73923571,observed proxy from D_total Number/Rate
+2016,70-74,51119274.99011552,observed proxy from D_total Number/Rate
+2016,75-79,36578287.30855793,observed proxy from D_total Number/Rate
+2016,80-84,23494288.998175196,observed proxy from D_total Number/Rate
+2016,85-89,11154407.135402001,observed proxy from D_total Number/Rate
+2016,90-94,3652431.884172292,observed proxy from D_total Number/Rate
+2016,95+,992709.8874563558,observed proxy from D_total Number/Rate
+2017,20-24,147271706.67434847,observed proxy from D_total Number/Rate
+2017,25-29,176605163.42275226,observed proxy from D_total Number/Rate
+2017,30-34,172738086.55490345,observed proxy from D_total Number/Rate
+2017,35-39,148227427.84574947,observed proxy from D_total Number/Rate
+2017,40-44,157001399.6022071,observed proxy from D_total Number/Rate
+2017,45-49,168719145.2993915,observed proxy from D_total Number/Rate
+2017,50-54,160251653.71961397,observed proxy from D_total Number/Rate
+2017,55-59,113089459.70848458,observed proxy from D_total Number/Rate
+2017,60-64,109676953.69590516,observed proxy from D_total Number/Rate
+2017,65-69,81354598.06496075,observed proxy from D_total Number/Rate
+2017,70-74,53850495.93835062,observed proxy from D_total Number/Rate
+2017,75-79,37303759.51625868,observed proxy from D_total Number/Rate
+2017,80-84,24355720.977404933,observed proxy from D_total Number/Rate
+2017,85-89,11707881.787175074,observed proxy from D_total Number/Rate
+2017,90-94,3905662.7355468054,observed proxy from D_total Number/Rate
+2017,95+,1075691.9184010206,observed proxy from D_total Number/Rate
+2018,20-24,143038351.67365393,observed proxy from D_total Number/Rate
+2018,25-29,169399178.4013504,observed proxy from D_total Number/Rate
+2018,30-34,178989071.4613034,observed proxy from D_total Number/Rate
+2018,35-39,149203970.79970393,observed proxy from D_total Number/Rate
+2018,40-44,152322347.45506024,observed proxy from D_total Number/Rate
+2018,45-49,167878242.93950588,observed proxy from D_total Number/Rate
+2018,50-54,163926118.4784798,observed proxy from D_total Number/Rate
+2018,55-59,120552820.9915731,observed proxy from D_total Number/Rate
+2018,60-64,109091895.7948783,observed proxy from D_total Number/Rate
+2018,65-69,87169728.61002997,observed proxy from D_total Number/Rate
+2018,70-74,56230690.97581272,observed proxy from D_total Number/Rate
+2018,75-79,38254514.84420716,observed proxy from D_total Number/Rate
+2018,80-84,25029904.292306334,observed proxy from D_total Number/Rate
+2018,85-89,12282052.527706154,observed proxy from D_total Number/Rate
+2018,90-94,4190410.3482370717,observed proxy from D_total Number/Rate
+2018,95+,1165964.3488808244,observed proxy from D_total Number/Rate
+2019,20-24,139439960.9124569,observed proxy from D_total Number/Rate
+2019,25-29,161469046.32799152,observed proxy from D_total Number/Rate
+2019,30-34,183041511.1706345,observed proxy from D_total Number/Rate
+2019,35-39,151908528.0744784,observed proxy from D_total Number/Rate
+2019,40-44,148749733.80352005,observed proxy from D_total Number/Rate
+2019,45-49,166196388.61904988,observed proxy from D_total Number/Rate
+2019,50-54,165582128.59403262,observed proxy from D_total Number/Rate
+2019,55-59,130187296.61771283,observed proxy from D_total Number/Rate
+2019,60-64,106991223.8766357,observed proxy from D_total Number/Rate
+2019,65-69,91259245.24561591,observed proxy from D_total Number/Rate
+2019,70-74,61344060.835416906,observed proxy from D_total Number/Rate
+2019,75-79,39367176.710641205,observed proxy from D_total Number/Rate
+2019,80-84,25614109.06494701,observed proxy from D_total Number/Rate
+2019,85-89,13025252.484016433,observed proxy from D_total Number/Rate
+2019,90-94,4540706.998801287,observed proxy from D_total Number/Rate
+2019,95+,1270679.8040660096,observed proxy from D_total Number/Rate
+2020,20-24,136479894.19545925,observed proxy from D_total Number/Rate
+2020,25-29,153973234.26796892,observed proxy from D_total Number/Rate
+2020,30-34,183964881.98215997,observed proxy from D_total Number/Rate
+2020,35-39,156475559.4648302,observed proxy from D_total Number/Rate
+2020,40-44,146543326.93642905,observed proxy from D_total Number/Rate
+2020,45-49,163303236.95634133,observed proxy from D_total Number/Rate
+2020,50-54,166018479.09052283,observed proxy from D_total Number/Rate
+2020,55-59,140122748.5361486,observed proxy from D_total Number/Rate
+2020,60-64,105025725.10352142,observed proxy from D_total Number/Rate
+2020,65-69,97328794.21307234,observed proxy from D_total Number/Rate
+2020,70-74,64627728.52730901,observed proxy from D_total Number/Rate
+2020,75-79,40642494.876970276,observed proxy from D_total Number/Rate
+2020,80-84,26321607.285363827,observed proxy from D_total Number/Rate
+2020,85-89,13794415.300334387,observed proxy from D_total Number/Rate
+2020,90-94,4916756.836850486,observed proxy from D_total Number/Rate
+2020,95+,1385323.1262166142,observed proxy from D_total Number/Rate
+2021,20-24,134119982.13034879,observed proxy from D_total Number/Rate
+2021,25-29,148118124.03920072,observed proxy from D_total Number/Rate
+2021,30-34,181088313.5942279,observed proxy from D_total Number/Rate
+2021,35-39,162806473.24242175,observed proxy from D_total Number/Rate
+2021,40-44,145332919.13183948,observed proxy from D_total Number/Rate
+2021,45-49,159187458.52526227,observed proxy from D_total Number/Rate
+2021,50-54,165775134.5899056,observed proxy from D_total Number/Rate
+2021,55-59,148699933.901803,observed proxy from D_total Number/Rate
+2021,60-64,105032897.43898307,observed proxy from D_total Number/Rate
+2021,65-69,100931788.1674923,observed proxy from D_total Number/Rate
+2021,70-74,68909968.14195064,observed proxy from D_total Number/Rate
+2021,75-79,42684016.15408527,observed proxy from D_total Number/Rate
+2021,80-84,26989741.979232777,observed proxy from D_total Number/Rate
+2021,85-89,14554462.92690646,observed proxy from D_total Number/Rate
+2021,90-94,5270261.29179795,observed proxy from D_total Number/Rate
+2021,95+,1509496.7684180695,observed proxy from D_total Number/Rate
+2022,20-24,132526309.27033582,observed proxy from D_total Number/Rate
+2022,25-29,143518936.98355293,observed proxy from D_total Number/Rate
+2022,30-34,175533344.0521819,observed proxy from D_total Number/Rate
+2022,35-39,169769868.69358665,observed proxy from D_total Number/Rate
+2022,40-44,145030489.0866793,observed proxy from D_total Number/Rate
+2022,45-49,154349076.48039132,observed proxy from D_total Number/Rate
+2022,50-54,165216107.36207595,observed proxy from D_total Number/Rate
+2022,55-59,155085343.6682773,observed proxy from D_total Number/Rate
+2022,60-64,108284191.5559812,observed proxy from D_total Number/Rate
+2022,65-69,102817995.6369186,observed proxy from D_total Number/Rate
+2022,70-74,73039826.00851876,observed proxy from D_total Number/Rate
+2022,75-79,45192446.92799802,observed proxy from D_total Number/Rate
+2022,80-84,27727921.17838401,observed proxy from D_total Number/Rate
+2022,85-89,15145643.964949593,observed proxy from D_total Number/Rate
+2022,90-94,5561613.677903778,observed proxy from D_total Number/Rate
+2022,95+,1631875.7154815022,observed proxy from D_total Number/Rate
+2023,20-24,131749697.5566825,observed proxy from D_total Number/Rate
+2023,25-29,139696327.26449484,observed proxy from D_total Number/Rate
+2023,30-34,168364801.39735228,observed proxy from D_total Number/Rate
+2023,35-39,175975858.43011886,observed proxy from D_total Number/Rate
+2023,40-44,146041571.45187494,observed proxy from D_total Number/Rate
+2023,45-49,149727843.74405357,observed proxy from D_total Number/Rate
+2023,50-54,164412029.64128557,observed proxy from D_total Number/Rate
+2023,55-59,158690707.40123406,observed proxy from D_total Number/Rate
+2023,60-64,115454879.15522063,observed proxy from D_total Number/Rate
+2023,65-69,102279276.13948205,observed proxy from D_total Number/Rate
+2023,70-74,78450201.79620078,observed proxy from D_total Number/Rate
+2023,75-79,47292203.690509714,observed proxy from D_total Number/Rate
+2023,80-84,28544607.78563273,observed proxy from D_total Number/Rate
+2023,85-89,15615216.903292721,observed proxy from D_total Number/Rate
+2023,90-94,5900606.059086778,observed proxy from D_total Number/Rate
+2023,95+,1778940.7581121721,observed proxy from D_total Number/Rate
+2024,20-24,139286971,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,25-29,144541996,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,30-34,166198520,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,35-39,175333247,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,40-44,156103746,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,45-49,144434101,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,50-54,166044941,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,55-59,156054747,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,60-64,118824875,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,65-69,100935362,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,70-74,80323237,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,75-79,47121627,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,80-84,26993753,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,85-89,13836370,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,90-94,4740135,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2024,95+,914518,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,20-24,138867688,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,25-29,142569168,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,30-34,158636335,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,35-39,179591615,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,40-44,158864553,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,45-49,143374084,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,50-54,161530984,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,55-59,158718652,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,60-64,129409068,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,65-69,97891614,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,70-74,84176422,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,75-79,50767606,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,80-84,27864676,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,85-89,14143421,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,90-94,4999599,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2025,95+,978159,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,20-24,138839386,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,25-29,141044167,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,30-34,152613255,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,35-39,180508493,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,40-44,162145343,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,45-49,144377744,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,50-54,156038035,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,55-59,161213001,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,60-64,140219963,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,65-69,94686102,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,70-74,87070780,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,75-79,54747052,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,80-84,29006947,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,85-89,14586791,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,90-94,5260320,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2026,95+,1044130,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,20-24,139859055,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,25-29,139539154,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,30-34,149231142,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,35-39,176622252,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,40-44,165538828,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,45-49,147817292,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,50-54,150526600,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,55-59,163505063,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,60-64,146680074,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,65-69,94609599,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,70-74,89508036,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,75-79,59090341,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,80-84,30562950,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,85-89,15065485,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,90-94,5505165,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2027,95+,1114951,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,20-24,141574071,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,25-29,138505423,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,30-34,146382776,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,35-39,171276773,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,40-44,169436594,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,45-49,151596272,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,50-54,145176409,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,55-59,163868947,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,60-64,147997105,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,65-69,100997433,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,70-74,91099788,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,75-79,63481549,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,80-84,32554140,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,85-89,15515987,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,90-94,5718259,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2028,95+,1202463,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,20-24,143664515,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,25-29,138073707,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,30-34,143739846,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,35-39,165206388,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,40-44,173905199,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,45-49,154141231,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,50-54,141630065,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,55-59,161452827,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,60-64,149543993,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,65-69,110875087,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,70-74,90327384,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,75-79,67380302,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,80-84,34918340,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,85-89,16056065,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,90-94,5896967,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2029,95+,1295964,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,20-24,145617700,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,25-29,137695737,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,30-34,141818004,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,35-39,157714062,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,40-44,178177704,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,45-49,156918233,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,50-54,140642644,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,55-59,157124559,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,60-64,152251128,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,65-69,120971781,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,70-74,87683771,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,75-79,70856911,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,80-84,37899676,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,85-89,16728840,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,90-94,6097045,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2030,95+,1386797,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,20-24,147347045,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,25-29,137704404,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,30-34,140336345,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,35-39,151748630,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,40-44,179118584,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,45-49,160209447,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,50-54,141679404,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,55-59,151819657,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,60-64,154764802,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,65-69,131227365,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,70-74,84860489,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,75-79,73463431,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,80-84,41115239,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,85-89,17569663,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,90-94,6356433,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2031,95+,1474051,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,20-24,149652820,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,25-29,138744038,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,30-34,138863124,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,35-39,148404251,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,40-44,175273878,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,45-49,163611944,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,50-54,145110681,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,55-59,146479724,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,60-64,157045879,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,65-69,137368968,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,70-74,84961505,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,75-79,75665693,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,80-84,44602607,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,85-89,18660762,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,90-94,6622487,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2032,95+,1554912,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,20-24,151643962,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,25-29,140469203,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,30-34,137850299,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,35-39,145585126,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,40-44,169974911,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,45-49,167511379,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,50-54,148869792,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,55-59,141292717,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,60-64,157464110,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,65-69,138737164,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,70-74,91081885,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,75-79,77146321,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,80-84,48117568,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,85-89,20028283,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,90-94,6872858,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2033,95+,1632721,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,20-24,152637684,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,25-29,142566102,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,30-34,137435113,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,35-39,142969453,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,40-44,163955925,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,45-49,171973286,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,50-54,151410776,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,55-59,137870280,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,60-64,155204438,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,65-69,140358785,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,70-74,100339648,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,75-79,76534894,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,80-84,51227024,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,85-89,21643313,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,90-94,7165958,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2034,95+,1704698,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,20-24,153009487,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,25-29,144529737,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,30-34,137075456,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,35-39,141073484,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,40-44,156526413,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,45-49,176241457,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,50-54,154187702,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,55-59,136952933,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,60-64,151090343,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,65-69,143066361,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,70-74,109706260,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,75-79,74311552,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,80-84,54043166,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,85-89,23683591,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,90-94,7531972,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2035,95+,1786441,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,20-24,152983775,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,25-29,146262810,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,30-34,137091096,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,35-39,139608887,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,40-44,150610878,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,45-49,177196619,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,50-54,157477207,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,55-59,138016849,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,60-64,146026030,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,65-69,145580191,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,70-74,119155326,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,75-79,71942252,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,80-84,56170874,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,85-89,25885013,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,90-94,7994949,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2036,95+,1887433,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,20-24,152079577,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,25-29,148572402,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,30-34,138137355,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,35-39,138155001,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,40-44,147301711,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,45-49,173401391,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,50-54,160886251,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,55-59,141429761,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,60-64,140921628,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,65-69,147851523,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,70-74,124832586,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,75-79,72246653,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,80-84,58016633,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,85-89,28279005,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,90-94,8583920,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2037,95+,1988327,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,20-24,149232103,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,25-29,150570306,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,30-34,139868175,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,35-39,137159638,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,40-44,144514704,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,45-49,168164428,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,50-54,164784736,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,55-59,145160481,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,60-64,135963985,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,65-69,148356983,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,70-74,126248954,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,75-79,77952355,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,80-84,59304648,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,85-89,30682777,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,90-94,9307424,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2038,95+,2083558,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,20-24,144892249,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,25-29,151583167,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,30-34,141977731,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,35-39,136763987,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,40-44,141933291,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,45-49,162216662,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,50-54,169234618,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,55-59,147697466,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,60-64,132720972,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,65-69,146327152,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,70-74,127954094,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,75-79,86321745,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,80-84,58859373,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,85-89,32797312,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,90-94,10157018,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2039,95+,2191801,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,20-24,139032458,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,25-29,151964037,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,30-34,143944586,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,35-39,136416512,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,40-44,140064120,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,45-49,154869054,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,50-54,173491421,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,55-59,150471522,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,60-64,131905816,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,65-69,142522294,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,70-74,130637797,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,75-79,94655020,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,80-84,57148741,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,85-89,34752429,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,90-94,11234070,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2040,95+,2327105,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,20-24,131133009,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,25-29,151948371,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,30-34,145680296,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,35-39,136441823,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,40-44,138623680,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,45-49,149023067,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,50-54,174465684,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,55-59,153756688,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,60-64,133012647,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,65-69,137805850,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,70-74,133125753,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,75-79,102967854,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,80-84,55347313,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,85-89,36243640,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,90-94,12394306,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2041,95+,2499603,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,20-24,121740548,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,25-29,151059624,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,30-34,147992841,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,35-39,137495177,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,40-44,137194146,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,45-49,145761322,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,50-54,170738683,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,55-59,157169343,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,60-64,136403079,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,65-69,133041884,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,70-74,135351084,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,75-79,107972136,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,80-84,55884611,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,85-89,37586535,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,90-94,13657514,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2042,95+,2711320,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,20-24,113202350,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,25-29,148234205,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,30-34,149995969,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,35-39,139231073,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,40-44,136220012,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,45-49,143016881,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,50-54,165587832,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,55-59,161063018,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,60-64,140091747,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,65-69,128413099,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,70-74,135943104,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,75-79,109402496,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,80-84,60972667,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,85-89,38565243,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,90-94,14914971,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2043,95+,2963494,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,20-24,106281884,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,25-29,143915129,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,30-34,151012223,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,35-39,141340471,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,40-44,135838750,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,45-49,140474591,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,50-54,159735769,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,55-59,165493302,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,60-64,142614932,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,65-69,125421004,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,70-74,134198642,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,75-79,111163491,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,80-84,68054650,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,85-89,38298210,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,90-94,16009256,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2044,95+,3259594,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,20-24,101210606,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,25-29,138088246,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,30-34,151408506,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,35-39,143314957,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,40-44,135509649,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,45-49,138643190,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,50-54,152506961,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,55-59,169735512,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,60-64,145381673,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,65-69,124746568,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,70-74,130795321,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,75-79,113762285,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,80-84,74879607,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,85-89,37199906,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,90-94,17054060,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2045,95+,3638455,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,20-24,98342366,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,25-29,130221742,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,30-34,151407804,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,35-39,145057351,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,40-44,135550494,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,45-49,137236985,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,50-54,146761833,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,55-59,170738290,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,60-64,148659276,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,65-69,125906939,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,70-74,126537327,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,75-79,116166452,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,80-84,81529216,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,85-89,36077261,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,90-94,17859403,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2046,95+,4048221,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,20-24,96669808,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,25-29,120858297,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,30-34,150534355,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,35-39,147372357,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,40-44,136612370,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,45-49,135839687,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,50-54,143566373,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,55-59,167106714,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,60-64,152078500,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,65-69,129254234,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,70-74,122223423,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,75-79,118284074,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,80-84,85513964,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,85-89,36771222,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,90-94,18626691,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2047,95+,4498507,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,20-24,95729428,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,25-29,112347533,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,30-34,147728094,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,35-39,149378774,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,40-44,138353047,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,45-49,134893212,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,50-54,140880486,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,55-59,162074247,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,60-64,155963735,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,65-69,132873767,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,70-74,118032368,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,75-79,118953836,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,80-84,86887351,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,85-89,40811325,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,90-94,19214424,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2048,95+,4949941,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,20-24,95068695,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,25-29,105446927,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,30-34,143426278,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,35-39,150399550,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,40-44,140464136,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,45-49,134533016,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,50-54,138393473,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,55-59,156352206,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,60-64,160360074,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,65-69,135371181,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,70-74,115373520,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,75-79,117566091,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,80-84,88650092,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,85-89,46042046,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,90-94,19088414,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2049,95+,5352620,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,20-24,94494424,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,25-29,100385061,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,30-34,137613048,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,35-39,150797776,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,40-44,142438092,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,45-49,134222336,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,50-54,136610117,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,55-59,149277048,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,60-64,164572884,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,65-69,138117239,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,70-74,114877380,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,75-79,114684308,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,80-84,91046205,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,85-89,50839176,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,90-94,18553023,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"
+2050,95+,5770578,"UN WPP 2024 PopulationExposureByAge5GroupSex_Medium, medium variant, 34 matched locations"

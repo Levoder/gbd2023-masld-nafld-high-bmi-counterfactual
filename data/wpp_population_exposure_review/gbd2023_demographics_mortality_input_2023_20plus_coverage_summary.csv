@@ -1,0 +1,7 @@
+metric,value
+study_locations,34.0
+locations_with_2023_mortality_input_sample_size,12.0
+locations_without_2023_mortality_input_sample_size,22.0
+regional_20plus_sample_size_available_locations,183160323.87448165
+wpp_20plus_exposure_same_available_locations,188661291.0
+relative_difference_available_locations_pct,-2.915790036398273

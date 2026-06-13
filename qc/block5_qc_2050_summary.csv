@@ -1,0 +1,7 @@
+measure_id,measure_name,scenario,year,rate_mean,rate_lower,rate_upper,absolute_reduction_vs_observed,percent_reduction_vs_observed,reduction_fraction
+1,Deaths,Observed projection,2050,1.4542961515366104,0,4.824267304251773,0,0,0
+1,Deaths,Scenario A: sex-equalized high BMI,2050,1.4400101637579508,0,4.824267304251773,0.01428598777865963,0.9823300270419508,0.1206916331779984
+1,Deaths,Scenario B: high BMI at TMREL,2050,1.3359284784636114,0,4.824267304251773,0.118367673072999,8.139172543909412,1
+2,DALYs (Disability-Adjusted Life Years),Observed projection,2050,47.13063386222934,0,129.64989551527452,0,0,0
+2,DALYs (Disability-Adjusted Life Years),Scenario A: sex-equalized high BMI,2050,46.245484872489854,0,129.64989551527452,0.8851489897394842,1.8780757167979567,0.11324652147942171
+2,DALYs (Disability-Adjusted Life Years),Scenario B: high BMI at TMREL,2050,39.314508667599625,0,129.64989551527452,7.816125194629713,16.58395942112203,1

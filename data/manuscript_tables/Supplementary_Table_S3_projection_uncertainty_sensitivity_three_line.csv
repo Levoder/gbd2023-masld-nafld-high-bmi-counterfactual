@@ -1,0 +1,27 @@
+Section,Measure,Scenario or method,Estimate,Lower,Upper,Additional note
+2050 projection,Deaths,Baseline projection (WPP 2024 exposure),1.454,0,4.824,0% reduction vs baseline
+2050 projection,Deaths,Scenario A: sex-equalized high BMI,1.44,0,4.824,0.98% reduction vs baseline
+2050 projection,Deaths,Scenario B: high BMI at TMREL,1.336,0,4.824,8.14% reduction vs baseline
+2050 projection,DALYs (Disability-Adjusted Life Years),Baseline projection (WPP 2024 exposure),47.131,0,129.65,0% reduction vs baseline
+2050 projection,DALYs (Disability-Adjusted Life Years),Scenario A: sex-equalized high BMI,46.245,0,129.65,1.88% reduction vs baseline
+2050 projection,DALYs (Disability-Adjusted Life Years),Scenario B: high BMI at TMREL,39.315,0,129.65,16.58% reduction vs baseline
+Uncertainty / RR-PSA,Deaths,main_block3_proxy,107.4,20.3,347.1,n_draws=0; prob_gt_zero=1
+Uncertainty / RR-PSA,DALYs (Disability-Adjusted Life Years),main_block3_proxy,2797.1,532.8,9047.8,n_draws=0; prob_gt_zero=1
+Uncertainty / RR-PSA,Deaths,summary_ui_lognormal_rho_0.8,111.6,31.5,442.2,n_draws=10000; prob_gt_zero=1
+Uncertainty / RR-PSA,DALYs (Disability-Adjusted Life Years),summary_ui_lognormal_rho_0.8,2905.5,808.1,11643.9,n_draws=10000; prob_gt_zero=1
+Uncertainty / RR-PSA,Deaths,rr_psa_capped,107.4,102.8,113.2,n_draws=10000; prob_gt_zero=1
+Uncertainty / RR-PSA,DALYs (Disability-Adjusted Life Years),rr_psa_capped,2798.5,2685.4,2939.3,n_draws=10000; prob_gt_zero=1
+Uncertainty / RR-PSA,Deaths,rr_psa_uncapped_sensitivity,107.4,102.4,113.1,n_draws=10000; prob_gt_zero=1
+Uncertainty / RR-PSA,DALYs (Disability-Adjusted Life Years),rr_psa_uncapped_sensitivity,2796.6,2676,2935.8,n_draws=10000; prob_gt_zero=1
+lean_denominator_sensitivity,Deaths,lean denominator inflation 0%,107.4,,,avoidable % total=0.411; avoidable % high-BMI=
+lean_denominator_sensitivity,Deaths,lean denominator inflation 10%,107.4,,,avoidable % total=0.374; avoidable % high-BMI=
+lean_denominator_sensitivity,Deaths,lean denominator inflation 25%,107.4,,,avoidable % total=0.329; avoidable % high-BMI=
+lean_denominator_sensitivity,Deaths,lean denominator inflation 50%,107.4,,,avoidable % total=0.274; avoidable % high-BMI=
+lean_denominator_sensitivity,DALYs (Disability-Adjusted Life Years),lean denominator inflation 0%,2797.1,,,avoidable % total=0.397; avoidable % high-BMI=
+lean_denominator_sensitivity,DALYs (Disability-Adjusted Life Years),lean denominator inflation 10%,2797.1,,,avoidable % total=0.361; avoidable % high-BMI=
+lean_denominator_sensitivity,DALYs (Disability-Adjusted Life Years),lean denominator inflation 25%,2797.1,,,avoidable % total=0.317; avoidable % high-BMI=
+lean_denominator_sensitivity,DALYs (Disability-Adjusted Life Years),lean denominator inflation 50%,2797.1,,,avoidable % total=0.264; avoidable % high-BMI=
+tmrel_upper_bound_comparison,Deaths,A_sex_equalized_high_bmi,107.4,,,avoidable % total=0.411; avoidable % high-BMI=12.12
+tmrel_upper_bound_comparison,Deaths,B_TMREL_high_bmi_upper_bound,885.8,,,avoidable % total=3.392; avoidable % high-BMI=100
+tmrel_upper_bound_comparison,DALYs (Disability-Adjusted Life Years),A_sex_equalized_high_bmi,2797.1,,,avoidable % total=0.397; avoidable % high-BMI=11.29
+tmrel_upper_bound_comparison,DALYs (Disability-Adjusted Life Years),B_TMREL_high_bmi_upper_bound,24774.9,,,avoidable % total=3.513; avoidable % high-BMI=100

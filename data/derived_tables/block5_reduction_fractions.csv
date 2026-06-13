@@ -1,0 +1,3 @@
+measure_id,measure_name,years_used,avoidable_sum,high_bmi_attr_sum,scenario_a_reduction_fraction,scenario_b_reduction_fraction
+1,Deaths,2019-2023,457.871058088483,3793.7265909162547,0.12069163317799839,1
+2,DALYs (Disability-Adjusted Life Years),2019-2023,12129.973606044661,107111.224676767,0.11324652147942173,1

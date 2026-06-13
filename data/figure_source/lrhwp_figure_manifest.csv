@@ -1,0 +1,6 @@
+﻿display_order,file_stem,role,caption_note
+1,Figure1_LRHWP_potentially_avoidable_DALYs,main figure,"Country-level potentially avoidable MASLD/NAFLD-related DALYs under the sex-equalized high-BMI counterfactual; rates are per 100,000 adults aged 20+."
+2,Figure2_LRHWP_SDI_and_risk_factor_comparison,main figure,Descriptive SDI association and non-additive 30+ internally standardized risk-factor comparison; rates are not official GBD ASRs.
+3,Figure3_LRHWP_BAPC_scenario_projection,main or late-results figure,"Scenario projection rerun with UN WPP 2024 PopulationExposureByAge5GroupSex_Medium for 2024-2050 person-years; still a model scenario, not an IHME official forecast."
+S1,Supplementary_FigureS1_BMI_exposure_burden_dumbbell,supplementary figure,Exploratory country-level sex gap plot; use as supplementary material.
+S2,Supplementary_FigureS2_uncertainty_sensitivity,supplementary figure,"Technical robustness figure separating summary-UI proxy propagation, RR-PSA, lean boundary, and TMREL upper bound."

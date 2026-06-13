@@ -1,0 +1,13 @@
+﻿section,measure_id,measure_name,scenario,avoidable_number,avoidable_pct_total,avoidable_pct_high_bmi_attr,A_to_B_ratio
+lean_denominator_sensitivity,1,Deaths,lean denominator inflation 0%,107.39178682760256,0.4112621970678658,,
+lean_denominator_sensitivity,1,Deaths,lean denominator inflation 10%,107.39178682760256,0.3738747246071507,,
+lean_denominator_sensitivity,1,Deaths,lean denominator inflation 25%,107.39178682760256,0.3290097576542927,,
+lean_denominator_sensitivity,1,Deaths,lean denominator inflation 50%,107.39178682760256,0.2741747980452439,,
+lean_denominator_sensitivity,2,DALYs (Disability-Adjusted Life Years),lean denominator inflation 0%,2797.13394827697,0.3965685498015579,,
+lean_denominator_sensitivity,2,DALYs (Disability-Adjusted Life Years),lean denominator inflation 10%,2797.13394827697,0.3605168634559617,,
+lean_denominator_sensitivity,2,DALYs (Disability-Adjusted Life Years),lean denominator inflation 25%,2797.13394827697,0.3172548398412463,,
+lean_denominator_sensitivity,2,DALYs (Disability-Adjusted Life Years),lean denominator inflation 50%,2797.13394827697,0.2643790332010385,,
+tmrel_upper_bound_comparison,1,Deaths,A_sex_equalized_high_bmi,107.39178682760256,0.4112621970678658,12.123350528470835,0.1212335052847083
+tmrel_upper_bound_comparison,1,Deaths,B_TMREL_high_bmi_upper_bound,885.8259651521294,3.3923146584110184,100.0,0.1212335052847083
+tmrel_upper_bound_comparison,2,DALYs (Disability-Adjusted Life Years),A_sex_equalized_high_bmi,2797.13394827697,0.3965685498015579,11.29020124087753,0.1129020124087752
+tmrel_upper_bound_comparison,2,DALYs (Disability-Adjusted Life Years),B_TMREL_high_bmi_upper_bound,24774.88123196255,3.512502047932803,100.0,0.1129020124087752
