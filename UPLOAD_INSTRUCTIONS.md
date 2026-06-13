@@ -25,7 +25,7 @@ git push -u origin main
 
 1. Log in to Zenodo with GitHub.
 2. Enable the GitHub repository in Zenodo.
-3. Make a GitHub release, for example `v0.1.0-submission`.
+3. Make a GitHub release, for example `v0.1.1-submission`.
 4. Zenodo will archive the release and mint a DOI.
 5. Add the DOI badge and citation to `README.md`, then update the manuscript Data Availability statement.
 

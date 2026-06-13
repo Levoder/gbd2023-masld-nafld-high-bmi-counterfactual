@@ -1,5 +1,7 @@
 # GBD 2023 MASLD/NAFLD-related liver burden counterfactual analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20679254.svg)](https://doi.org/10.5281/zenodo.20679254)
+
 This repository-ready package supports the manuscript:
 
 **Sex-equalized high-BMI exposure and potentially avoidable MASLD/NAFLD-related liver burden in Asia and Oceania: a GBD 2023 counterfactual analysis**
@@ -43,3 +45,7 @@ Start with `FILE_MANIFEST.csv` and `docs/GATHER_STROBE_transparency_checklist.md
 3. `scripts/build_lrhwp_revision_package.py`
 
 The package is intended to support inspection and reuse of derived aggregate outputs. Large third-party raw WPP cache files were not copied into the GitHub-ready folder; they are listed with hashes in `EXTERNAL_PUBLIC_DATA_MANIFEST.csv`.
+
+## How to cite
+
+Li R, Dong X, Wei X, et al. GBD 2023 MASLD/NAFLD-related liver burden counterfactual analysis, version v0.1.1-submission. Zenodo; 2026. doi:10.5281/zenodo.20679254.

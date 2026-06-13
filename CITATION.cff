@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript and archived repository DOI when available."
+message: "If you use this repository, please cite the associated manuscript and the archived Zenodo record."
 title: "GBD 2023 MASLD/NAFLD-related liver burden counterfactual analysis"
-version: "0.1.0-submission"
+version: "0.1.1-submission"
 date-released: "2026-06-13"
+doi: "10.5281/zenodo.20679254"
 authors:
   - family-names: "Li"
     given-names: "Ruiqi"
